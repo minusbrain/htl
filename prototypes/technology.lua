@@ -2,7 +2,8 @@ data:extend{
   {
     type = "technology",
     name = "hydrothermal-liquefaction",
-    icon = "__base__/graphics/technology/coal-liquefaction.png",
+    icon = "__htl__/graphics/technology.png",
+    icon_size = 128,
     prerequisites = {"coal-liquefaction"},
     effects =
     {
