@@ -5,6 +5,6 @@ A factorio (http://www.factorio.com/) mod that adds a technology and a recipe to
 The process is based on https://en.wikipedia.org/wiki/Hydrothermal_liquefaction
 
 # Version history
-v0.15.2 - Pull request by EpicFail1403 - Added support for productivity modules
-v0.15.1 - Balanced the recipe and added graphics
-v0.15.0 - Initial version with basic technology and recipe
+* v0.15.2 - Pull request by EpicFail1403 - Added support for productivity modules
+* v0.15.1 - Balanced the recipe and added graphics
+* v0.15.0 - Initial version with basic technology and recipe
