@@ -17,6 +17,7 @@ data:extend(
       {type="fluid", name="crude-oil", amount=50}
     },
     icon = "__htl__/graphics/icon.png",
+    icon_size = 32,
     subgroup = "fluid-recipes",
     order = "a[oil-processing]-d[hydrothermal-liquefaction]",
     allow_decomposition = false
