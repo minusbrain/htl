@@ -5,6 +5,7 @@ A factorio (http://www.factorio.com/) mod that adds a technology and a recipe to
 The process is based on https://en.wikipedia.org/wiki/Hydrothermal_liquefaction
 
 # Version history
+* v1.1.0 - Update for Factorio v1.1.0
 * v0.18.0 - Update for Factorio v0.18
 * v0.17.1
   * kryshnar - Added French locale
