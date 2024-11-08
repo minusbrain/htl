@@ -8,6 +8,8 @@ The process is based on https://en.wikipedia.org/wiki/Hydrothermal_liquefaction
 * V2.0.0
   * Update for Factorio v2.0.0
   * Added Recipe Name for Factoriopedia
+  * If Space-Age is active the technology ingredients have been adapted to be
+    more in line with other liquefaction technologies
 * v1.1.0 - Update for Factorio v1.1.0
 * v0.18.0 - Update for Factorio v0.18
 * v0.17.1
