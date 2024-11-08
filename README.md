@@ -7,6 +7,7 @@ The process is based on https://en.wikipedia.org/wiki/Hydrothermal_liquefaction
 # Version history
 * V2.0.0
   * Update for Factorio v2.0.0
+  * Added Recipe Name for Factoriopedia
 * v1.1.0 - Update for Factorio v1.1.0
 * v0.18.0 - Update for Factorio v0.18
 * v0.17.1
